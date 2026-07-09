@@ -3,7 +3,7 @@
 ![ATDM diagram image](./atdm-diagram.png)
 *Model of the universe as based on Zeng's theory. Diagram by me.*
 
-The original article can be found here: [atdm.pdf](atdm.pdf)
+The original article by Zeng can be found here: [atdm.pdf](atdm.pdf)
 
 ## Lean Proofs
 My formalization of ATDM is found in [atdm.lean](./formalization/atdm.lean).
